@@ -1,0 +1,25 @@
+p {
+color: #665544;
+border: 1px dashed grey;
+margin: auto;
+text-align: center;}
+h2,h3{
+    text-align: center;
+    color: #ee3e80
+}
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+}.center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 170px;
+  background: #FFCEC2;
+}.center2 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
